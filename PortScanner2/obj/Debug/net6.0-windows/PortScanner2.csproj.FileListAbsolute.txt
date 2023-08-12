@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.PortScaner.resources
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.AssemblyInfo.cs
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PortScanner2\PortScanner2\bin\Debug\net6.0-windows\PortScanner2.exe
+C:\Users\User\source\repos\PortScanner2\PortScanner2\bin\Debug\net6.0-windows\PortScanner2.deps.json
+C:\Users\User\source\repos\PortScanner2\PortScanner2\bin\Debug\net6.0-windows\PortScanner2.runtimeconfig.json
+C:\Users\User\source\repos\PortScanner2\PortScanner2\bin\Debug\net6.0-windows\PortScanner2.dll
+C:\Users\User\source\repos\PortScanner2\PortScanner2\bin\Debug\net6.0-windows\PortScanner2.pdb
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.dll
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\refint\PortScanner2.dll
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.pdb
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\PortScanner2.genruntimeconfig.cache
+C:\Users\User\source\repos\PortScanner2\PortScanner2\obj\Debug\net6.0-windows\ref\PortScanner2.dll
